@@ -1,0 +1,16 @@
+.cabeçalho{
+    background-color:#121527 ;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+width: 20%;
+
+}
+
+
+.escola-imagem{
+    width: 20%;
+}
